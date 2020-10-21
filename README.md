@@ -1,6 +1,6 @@
 # R_123
 
-The repository contains files of my first lessons towards learning R
+The repository contains files of my first lessons while learning R
 
 # Prerequisites
 
